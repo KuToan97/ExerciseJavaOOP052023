@@ -1,4 +1,4 @@
-package toantester.com.javaoop.person;
+package toantester.com.javaoop.baitap2.person;
 
 public class InfomationPerson {
 

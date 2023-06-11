@@ -1,6 +1,6 @@
-package toantester.com.javaoop.company;
+package toantester.com.javaoop.baitap2.company;
 
-import toantester.com.javaoop.person.Person;
+import toantester.com.javaoop.baitap2.person.Person;
 
 public class Company extends Person {
 
